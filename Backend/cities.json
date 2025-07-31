@@ -1,0 +1,212 @@
+[
+    {
+        "from": "New York",
+        "to": "London",
+        "coordinates": {
+            "from": [
+                40.7128,
+                -74.006
+            ],
+            "to": [
+                51.5074,
+                -0.1278
+            ]
+        }
+    },
+    {
+        "from": "Delhi",
+        "to": "Tokyo",
+        "coordinates": {
+            "from": [
+                28.6139,
+                77.209
+            ],
+            "to": [
+                35.6762,
+                139.6503
+            ]
+        }
+    },
+    {
+        "from": "Paris",
+        "to": "Berlin",
+        "coordinates": {
+            "from": [
+                48.8566,
+                2.3522
+            ],
+            "to": [
+                52.52,
+                13.405
+            ]
+        }
+    },
+    {
+        "from": "Mumbai",
+        "to": "Dubai",
+        "coordinates": {
+            "from": [
+                19.076,
+                72.8777
+            ],
+            "to": [
+                25.2048,
+                55.2708
+            ]
+        }
+    },
+    {
+        "from": "Beijing",
+        "to": "Moscow",
+        "coordinates": {
+            "from": [
+                39.9042,
+                116.4074
+            ],
+            "to": [
+                55.7558,
+                37.6173
+            ]
+        }
+    },
+    {
+        "from": "Sydney",
+        "to": "Auckland",
+        "coordinates": {
+            "from": [
+                -33.8688,
+                151.2093
+            ],
+            "to": [
+                -36.8485,
+                174.7633
+            ]
+        }
+    },
+    {
+        "from": "Los Angeles",
+        "to": "Toronto",
+        "coordinates": {
+            "from": [
+                34.0522,
+                -118.2437
+            ],
+            "to": [
+                43.65107,
+                -79.347015
+            ]
+        }
+    },
+    {
+        "from": "Singapore",
+        "to": "Bangkok",
+        "coordinates": {
+            "from": [
+                1.3521,
+                103.8198
+            ],
+            "to": [
+                13.7563,
+                100.5018
+            ]
+        }
+    },
+    {
+        "from": "Rome",
+        "to": "Madrid",
+        "coordinates": {
+            "from": [
+                41.9028,
+                12.4964
+            ],
+            "to": [
+                40.4168,
+                -3.7038
+            ]
+        }
+    },
+    {
+        "from": "Istanbul",
+        "to": "Cairo",
+        "coordinates": {
+            "from": [
+                41.0082,
+                28.9784
+            ],
+            "to": [
+                30.0444,
+                31.2357
+            ]
+        }
+    },
+    {
+        "from": "Chicago",
+        "to": "Mexico City",
+        "coordinates": {
+            "from": [
+                41.8781,
+                -87.6298
+            ],
+            "to": [
+                19.4326,
+                -99.1332
+            ]
+        }
+    },
+    {
+        "from": "Jakarta",
+        "to": "Manila",
+        "coordinates": {
+            "from": [
+                -6.2088,
+                106.8456
+            ],
+            "to": [
+                14.5995,
+                120.9842
+            ]
+        }
+    },
+    {
+        "from": "Seoul",
+        "to": "Shanghai",
+        "coordinates": {
+            "from": [
+                37.5665,
+                126.978
+            ],
+            "to": [
+                31.2304,
+                121.4737
+            ]
+        }
+    },
+    {
+        "from": "S\u00e3o Paulo",
+        "to": "Buenos Aires",
+        "coordinates": {
+            "from": [
+                -23.5505,
+                -46.6333
+            ],
+            "to": [
+                -34.6037,
+                -58.3816
+            ]
+        }
+    },
+    {
+        "from": "Lagos",
+        "to": "Nairobi",
+        "coordinates": {
+            "from": [
+                6.5244,
+                3.3792
+            ],
+            "to": [
+                -1.2921,
+                36.8219
+            ]
+        }
+    }
+]
